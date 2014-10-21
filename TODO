@@ -1,0 +1,11 @@
+load party from DB
+add notes to encounter characters
+add characters to encounters with unique names
+* allow removal of characters from list or encounter
+add forest encounters
+add links to web pages (and open them from program)
+add spells and spell-like abilities
+use items
+create and use encounter tables
+* load encounter from DB
+* apply fast-healing and regeneration effects automatically
